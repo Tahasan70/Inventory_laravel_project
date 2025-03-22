@@ -1,0 +1,1 @@
+# Inventory_laravel_project
